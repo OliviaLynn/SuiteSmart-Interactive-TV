@@ -1,0 +1,15 @@
+
+*.csproj
+*.meta
+*.info
+*.bin
+*.sln
+*.userprefs
+*.apk
+Temp/*
+ProjectSettings
+obj/Debug
+Library
+Assets/UniWebView
+Assets/Plugins
+Assets/HttpClient
