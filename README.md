@@ -22,3 +22,9 @@ The main panel allows all sorts of focuses: allowing the user to navigate the we
 ## Getting Started
 
 ### Prerequisites
+
+## UniWebView
+We use the [UniWebView](https://docs.uniwebview.com/) Unity plugin for the main panel, to allow it to display any webpage we specify. Make sure you have a copy of that in your `Plugins` folder.
+
+## SimpleJSON
+We use the [SimpleJSON](https://wiki.unity3d.com/index.php/SimpleJSON) Unity plugin to serialize JSON data. This is free and small so it's already in the `Plugins` folder.
