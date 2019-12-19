@@ -3,4 +3,4 @@
 
 An interactive smart TV home screen for SuiteSmart, a smart hotel company. Built in Unity for Android TV.
 
-<img src="blob:https://imgur.com/047db42a-076f-467d-916c-b60c17d2845d" />
+<img src="https://i.imgur.com/69AnOSC.png" />
