@@ -1,15 +1,45 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
 
-*.csproj
-*.meta
-*.info
-*.bin
-*.sln
-*.userprefs
-*.apk
-Temp/*
-ProjectSettings
-obj/Debug
-Library
+# ======= #
+# Plugins #
+# ======= #
 Assets/UniWebView
-Assets/Plugins
+Assets/Plugins/UniWebView.bundle
 Assets/HttpClient
+
+# ====== #
+# Custom #
+# ====== #
+Assets/Icons
+Assets/Icons.meta
+*.apk
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
